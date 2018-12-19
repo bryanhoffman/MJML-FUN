@@ -1,0 +1,53 @@
+<mjml>
+  <mj-body>
+    <mj-section padding="0">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image padding="0" src="http://image.e.dupagecu.com/lib/fe96127276600c7c74/m/3/ab3b5e33-4160-47c3-bca6-29e696a9f392.jpg" />
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-text align="center" padding="0px 5px" >
+
+            <p>airfare, hotels, travel agencies, and more</p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image padding="0" src="http://image.e.dupagecu.com/lib/fe96127276600c7c74/m/3/1de2128e-5a89-4eae-986e-8853bb970956.jpg" />
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-text align="center" padding="0px 5px">
+            <p>restaurants, takeout, bars, live performances, sports, and more</p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image padding="0" src="http://image.e.dupagecu.com/lib/fe96127276600c7c74/m/3/4b4ce553-4649-4b71-bc59-901492216ed7.jpg" />
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-text align="center" padding="0px 5px">
+            <p>supermarkets, wholesale stores, and the largest online retailer</p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image padding="0" src="http://image.e.dupagecu.com/lib/fe96127276600c7c74/m/3/b8678dd3-898f-4811-90a3-ab0dda9795a9.jpg" />
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-text align="center" padding="0px 5px">
+            <p>get rewarded with every purchase</p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>
